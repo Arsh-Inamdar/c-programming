@@ -17,6 +17,7 @@
 ---
 
 ## 📚 Table of Contents
+## 📚 Table of Contents
 
 1. [🎯 Learning Objectives](#-learning-objectives)
 2. [💡 Introduction to Operators](#-introduction-to-operators)
@@ -31,6 +32,8 @@
 11. [⚠️ Common Mistakes](#️-common-mistakes)
 12. [🧠 Practice Exercises](#-practice-exercises)
 13. [✅ Module Completion Checklist](#-module-completion-checklist)
+14. [📖 Key Takeaways](#-key-takeaways)
+15. [🔗 Module Navigation](#-module-navigation)
 
 ---
 
@@ -971,30 +974,20 @@ Use this checklist to track your learning progress.
 
 ## 🔗 Module Navigation
 
-<p align="center">
-  ⬅️ **Previous Module**
-  <br>
-  <a href="../01-Basics/README.md">📘 Module 01 — C Programming Basics</a>
-</p>
+\<p align="center">   ⬅️ \*\*Previous Module\*\*   \<br>   \<a href="../01-Basics/README.md">📘 Module 01 — C Programming Basics\</a> \</p>
 
-<p align="center">
-  🏠 <a href="../README.md">C Programming — Main Repository</a>
-</p>
+\<p align="center">   🏠 \<a href="../README.md">C Programming — Main Repository\</a> \</p>
 
-<p align="center">
-  **Next Module** ➡️
-  <br>
-  <a href="../03-Control-Statements/README.md">📗 Module 03 — Control Statements</a>
-</p>
+\<p align="center">   \*\*Next Module\*\* ➡️   \<br>   📗 Module 03 — Control Statements (Coming Soon) \</p>
 
 ---
 
-<p align="center">
-  <strong>🎓 End of Module 02 — C Programming Operators</strong>
-</p>
+\<p align="center">
+&#x20; \<strong>🎓 End of Module 02 — C Programming Operators\</strong>
+\</p>
 
-<p align="center">
-  Learn • Practice • Implement • Improve
-</p>
+\<p align="center">
+&#x20; Learn • Practice • Implement • Improve
+\</p>
 
 ---
