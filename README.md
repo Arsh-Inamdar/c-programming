@@ -34,7 +34,7 @@ The repository is organized into 10 progressive modules.
 |:---:|---|---|:---:|
 | 01 | [📘 C Programming Basics](01-Basics/README.md) | Introduction, variables, data types, input/output and fundamentals | ✅ Completed |
 | 02 | [📗 Operators](02-Operators/README.md) | Arithmetic, relational, logical, assignment and bitwise operators | ✅ Completed |
-| 03 | 📙 Control Statements | Decision-making and conditional statements | 🔜 Upcoming |
+| 03 | [📙 Control Statements](03-Control-Statements/README.md) | Decision-making, selection and jump statements | ✅ Completed |
 | 04 | 🔄 Loops | Iteration using for, while and do-while loops | 🔜 Upcoming |
 | 05 | 📚 Arrays and Strings | Array operations and string manipulation | 🔜 Upcoming |
 | 06 | ⚙️ Functions | Function declaration, definition, recursion and scope | 🔜 Upcoming |
@@ -108,11 +108,11 @@ Through this repository, I aim to:
 | Metric | Progress |
 |---|---:|
 | Total Modules | 10 |
-| Completed Modules | 2 |
-| Upcoming Modules | 8 |
-| Completion | 20% |
+| Completed Modules | 3 |
+| Upcoming Modules | 7 |
+| Completion | 30% |
 
-**Progress:** 2 out of 10 modules completed.
+**Progress:** 3 out of 10 modules completed.
 
 </details>
 
