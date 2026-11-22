@@ -36,7 +36,7 @@ The repository is organized into 10 progressive modules.
 | 02 | [📗 Operators](02-Operators/README.md) | Arithmetic, relational, logical, assignment and bitwise operators | ✅ Completed |
 | 03 | [📙 Control Statements](03-Control-Statements/README.md) | Decision-making, selection and jump statements | ✅ Completed |
 | 04 | [🔄 Loops](04-Loops/README.md) | Iteration using for, while, do-while and nested loops | ✅ Completed |
-| 05 | 📚 Arrays and Strings | Array operations and string manipulation | 🔜 Upcoming |
+| 05 | [📚 Arrays and Strings](05-Arrays-and-Strings/README.md) | Array operations, multidimensional arrays and string manipulation | ✅ Completed |
 | 06 | ⚙️ Functions | Function declaration, definition, recursion and scope | 🔜 Upcoming |
 | 07 | 👉 Pointers | Pointer fundamentals, memory addresses and pointer operations | 🔜 Upcoming |
 | 08 | 🏗️ Structures and Unions | User-defined data types and memory organization | 🔜 Upcoming |
@@ -108,11 +108,11 @@ Through this repository, I aim to:
 | Metric | Progress |
 |---|---:|
 | Total Modules | 10 |
-| Completed Modules | 4 |
-| Upcoming Modules | 6 |
-| Completion | 40% |
+| Completed Modules | 5 |
+| Upcoming Modules | 5 |
+| Completion | 50% |
 
-**Progress:** 4 out of 10 modules completed.
+**Progress:** 5 out of 10 modules completed.
 
 </details>
 
