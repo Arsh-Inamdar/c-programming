@@ -1,4 +1,3 @@
-
 # 💻 C Programming
 
 <p align="center">
@@ -18,30 +17,32 @@
 
 Welcome to my **C Programming** learning repository!
 
-This repository documents my structured journey of learning the C programming language, starting with fundamental concepts and progressing towards advanced topics, problem-solving, and practical mini-projects.
+This repository documents my structured journey of learning C, from fundamental concepts to advanced topics, problem-solving and practical projects.
 
-It contains organized learning notes, C programs, practical implementations, coding exercises, and project work developed throughout the learning process.
+Each module contains organized learning notes, explanations, examples and independent practice exercises. Practical source-code programs are being added alongside the documentation as the repository develops.
 
-The goal is to build a strong programming foundation through consistent learning and hands-on practice.
+The goal is to build a strong programming foundation through consistent learning, revision and hands-on practice.
 
 ---
 
 ## 🗺️ Learning Roadmap
 
-The repository is organized into 10 progressive modules.
+The learning material is organized into 10 progressive modules.
 
-| No. | Module | Description | Status |
+| No. | Module | Description | Documentation |
 |:---:|---|---|:---:|
-| 01 | [📘 C Programming Basics](01-Basics/README.md) | Introduction, variables, data types, input/output and fundamentals | ✅ Completed |
-| 02 | [📗 Operators](02-Operators/README.md) | Arithmetic, relational, logical, assignment and bitwise operators | ✅ Completed |
-| 03 | [📙 Control Statements](03-Control-Statements/README.md) | Decision-making, selection and jump statements | ✅ Completed |
-| 04 | [🔄 Loops](04-Loops/README.md) | Iteration using for, while, do-while and nested loops | ✅ Completed |
-| 05 | [📚 Arrays and Strings](05-Arrays-and-Strings/README.md) | Array operations, multidimensional arrays and string manipulation | ✅ Completed |
-| 06 | [⚙️ Functions](06-Functions/README.md) | Function declaration, arguments, return values, recursion and storage classes | ✅ Completed |
+| 01 | [📘 C Programming Basics](01-Basics/README.md) | Introduction, variables, data types, input/output and fundamentals | ✅ Guide complete |
+| 02 | [📗 Operators](02-Operators/README.md) | Arithmetic, relational, logical, assignment and bitwise operators | ✅ Guide complete |
+| 03 | [📙 Control Statements](03-Control-Statements/README.md) | Decision-making, selection and jump statements | ✅ Guide complete |
+| 04 | [🔄 Loops](04-Loops/README.md) | Iteration using for, while, do-while and nested loops | ✅ Guide complete |
+| 05 | [📚 Arrays and Strings](05-Arrays-and-Strings/README.md) | Array operations, multidimensional arrays and string manipulation | ✅ Guide complete |
+| 06 | [⚙️ Functions](06-Functions/README.md) | Function declaration, arguments, return values, recursion and storage classes | ✅ Guide complete |
 | 07 | 👉 Pointers | Pointer fundamentals, memory addresses and pointer operations | 🔜 Upcoming |
 | 08 | 🏗️ Structures and Unions | User-defined data types and memory organization | 🔜 Upcoming |
 | 09 | 📂 File Handling | Reading, writing and managing files in C | 🔜 Upcoming |
 | 10 | 🚀 Mini Projects | Applying C concepts through practical projects | 🔜 Upcoming |
+
+**Progress note:** “Guide complete” means the learning documentation for that module is written. It does not mean that all practical programs or exercises have been completed.
 
 ---
 
@@ -58,9 +59,17 @@ c-programming/
 │   └── README.md
 │
 ├── 03-Control-Statements/
+│   └── README.md
+│
 ├── 04-Loops/
+│   └── README.md
+│
 ├── 05-Arrays-and-Strings/
+│   └── README.md
+│
 ├── 06-Functions/
+│   └── README.md
+│
 ├── 07-Pointers/
 ├── 08-Structures-and-Unions/
 ├── 09-File-Handling/
@@ -70,6 +79,8 @@ c-programming/
 ├── LICENSE
 └── README.md
 ```
+
+The structure above reflects the current tracked learning files. Practical program collections will be organized into dedicated `programs/` folders within their respective modules as they are added.
 
 ---
 
@@ -103,16 +114,28 @@ Through this repository, I aim to:
 ## 📊 Learning Progress
 
 <details>
-<summary><strong>View Module Completion Progress</strong></summary>
+<summary><strong>View Documentation Progress</strong></summary>
 
 | Metric | Progress |
 |---|---:|
-| Total Modules | 10 |
-| Completed Modules | 6 |
-| Upcoming Modules | 4 |
-| Completion | 60% |
+| Total learning modules | 10 |
+| Documentation guides completed | 6 |
+| Documentation guides upcoming | 4 |
+| Documentation completion | 60% |
 
-**Progress:** 6 out of 10 modules completed.
+**Documentation progress:** 6 out of 10 module guides completed.
+
+</details>
+
+<details>
+<summary><strong>View Practical Programming Progress</strong></summary>
+
+| Metric | Progress |
+|---|---:|
+| Tracked C source files currently in the repository | 1 |
+| Practical program collections planned for Modules 01–06 | In progress |
+
+The practical-program count is tracked separately from documentation progress. A completed guide does not automatically mark its practical implementation as complete.
 
 </details>
 
@@ -120,11 +143,13 @@ Through this repository, I aim to:
 
 ## 💡 Repository Guidelines
 
-- Each module has its own README containing structured learning material.
-- Code examples are organized according to their respective topics.
-- Programs are written with readability and simplicity in mind.
-- Practice exercises help reinforce important concepts.
-- The repository is updated as new modules and implementations are completed.
+- Each completed module has its own README containing structured learning material.
+- Keep source-code programs in the `programs/` folder of the relevant module as those collections are introduced.
+- Use clear file names that describe the concept demonstrated.
+- Keep examples readable and beginner-friendly.
+- Leave practice exercises unsolved so they can be attempted independently.
+- Verify code examples and internal Markdown links when updating the repository.
+- Update the learning progress only when the corresponding work is actually complete.
 
 ---
 
