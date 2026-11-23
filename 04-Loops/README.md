@@ -988,7 +988,7 @@ Use the concepts learned in this module to solve the following exercises.
   <br><br>
   <strong>Next Module</strong>
   <br>
-  📚 Module 05 — Arrays and Strings (Coming Soon) ➡️
+  <a href="../05-Arrays-and-Strings/README.md">Module 05 — Arrays and Strings ➡️</a>
 </p>
 
 ---
