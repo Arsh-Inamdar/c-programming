@@ -368,7 +368,28 @@ multi-line comment.
 
 ---
 
-## ⚙️ 9. Compilation and Execution
+## 💻 9. Practical Programs
+
+The following source files provide hands-on examples for the concepts covered in this module.
+
+| No. | Program | Concepts |
+|:---:|---|---|
+| 01 | [Hello World](programs/01-hello-world.c) | First C program and output |
+| 02 | [Program Structure](programs/02-program-structure.c) | Header, `main()`, statements and return |
+| 03 | [Variables and Data Types](programs/03-variables-and-data-types.c) | Variable declaration, initialization and update |
+| 04 | [Input and Output](programs/04-input-and-output.c) | Reading a full name and an integer |
+| 05 | [Format Specifiers](programs/05-format-specifiers.c) | Integer, floating-point, character and string output |
+| 06 | [Constants](programs/06-constants.c) | `const` values and calculations |
+| 07 | [Comments](programs/07-comments.c) | Single-line and multi-line comments |
+
+### Compile and Run a Program
+
+Run these commands from the repository root directory. Replace the file name when practicing another program.
+
+```bash
+gcc 01-Basics/programs/01-hello-world.c -o hello-world
+./hello-world
+```
 
 C source code must be compiled before it can be executed.
 
@@ -379,7 +400,7 @@ GCC is a commonly used C compiler.
 From the repository root directory:
 
 ```bash
-gcc 01-Basics/hello_world.c -o 01-Basics/hello_world.exe
+gcc 01-Basics/programs/01-hello-world.c -o hello-world
 ```
 
 This command compiles the source file and creates an executable file.
@@ -387,7 +408,7 @@ This command compiles the source file and creates an executable file.
 ### ▶️ Step 2: Execute in Git Bash
 
 ```bash
-./01-Basics/hello_world.exe
+./hello-world
 ```
 
 ### 🐧 Step 3: Execute on Linux or macOS
