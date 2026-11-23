@@ -17,7 +17,6 @@
 ---
 
 ## 📚 Table of Contents
-## 📚 Table of Contents
 
 1. [🎯 Learning Objectives](#-learning-objectives)
 2. [💡 Introduction to Operators](#-introduction-to-operators)
@@ -987,7 +986,7 @@ Use this checklist to track your learning progress.
 <p align="center">
   <strong>Next Module</strong> ➡️
   <br>
-  📗 Module 03 — Control Statements (Coming Soon)
+  <a href="../03-Control-Statements/README.md">📙 Module 03 — Control Statements</a>
 </p>
 
 ---
