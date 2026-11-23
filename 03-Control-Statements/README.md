@@ -914,7 +914,7 @@ These exercises are provided for independent revision and future practical sessi
 <p align="center">
   <strong>Next Module</strong> ➡️
   <br>
-  📗 Module 04 — Loops (Coming Soon)
+  <a href="../04-Loops/README.md">🔄 Module 04 — Loops</a>
 </p>
 
 ---

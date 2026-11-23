@@ -2129,7 +2129,7 @@ Use this checklist to track your learning progress.
 <p align="center">
   **Next Module**
   <br>
-  Module 06 — Functions (Coming Soon)
+  [Module 06 — Functions](../06-Functions/README.md)
   <br>
   ➡️
 </p>
