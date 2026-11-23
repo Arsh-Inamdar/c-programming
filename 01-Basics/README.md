@@ -379,7 +379,7 @@ GCC is a commonly used C compiler.
 From the repository root directory:
 
 ```bash
-gcc 01-Basics/hello_world.c -o 01-Basics/hello_world.exe
+gcc -Wall -Wextra -std=c11 -pedantic 01-Basics/programs/01-hello-world.c -o hello_world.exe
 ```
 
 This command compiles the source file and creates an executable file.
@@ -387,16 +387,38 @@ This command compiles the source file and creates an executable file.
 ### ▶️ Step 2: Execute in Git Bash
 
 ```bash
-./01-Basics/hello_world.exe
+./hello_world.exe
 ```
 
 ### 🐧 Step 3: Execute on Linux or macOS
 
-If the executable was compiled in the current directory using the output name `hello_world`:
+Compile the program using GCC:
+
+```bash
+gcc -Wall -Wextra -std=c11 -pedantic 01-Basics/programs/01-hello-world.c -o hello_world
+```
+
+Execute it:
 
 ```bash
 ./hello_world
 ```
+
+### 📂 Practical Programs
+
+The source-code programs for this module are organized in the `programs/` directory.
+
+| No. | Program | Source File |
+|:---:|---|---|
+| 01 | Hello World | `programs/01-hello-world.c` |
+| 02 | Program Structure | `programs/02-program-structure.c` |
+| 03 | Variables and Data Types | `programs/03-variables-and-data-types.c` |
+| 04 | Input and Output | `programs/04-input-and-output.c` |
+| 05 | Format Specifiers | `programs/05-format-specifiers.c` |
+| 06 | Constants | `programs/06-constants.c` |
+| 07 | Comments | `programs/07-comments.c` |
+
+All seven practical programs for this module are available in the `programs/` directory.
 
 ### 📌 Important Notes
 

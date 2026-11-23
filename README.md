@@ -53,7 +53,14 @@ c-programming/
 │
 ├── 01-Basics/
 │   ├── README.md
-│   └── hello_world.c
+│   └── programs/
+│       ├── 01-hello-world.c
+│       ├── 02-program-structure.c
+│       ├── 03-variables-and-data-types.c
+│       ├── 04-input-and-output.c
+│       ├── 05-format-specifiers.c
+│       ├── 06-constants.c
+│       └── 07-comments.c
 │
 ├── 02-Operators/
 │   └── README.md
