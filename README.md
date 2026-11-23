@@ -53,7 +53,14 @@ c-programming/
 │
 ├── 01-Basics/
 │   ├── README.md
-│   └── hello_world.c
+│   └── programs/
+│       ├── 01-hello-world.c
+│       ├── 02-program-structure.c
+│       ├── 03-variables-and-data-types.c
+│       ├── 04-input-and-output.c
+│       ├── 05-format-specifiers.c
+│       ├── 06-constants.c
+│       └── 07-comments.c
 │
 ├── 02-Operators/
 │   └── README.md
@@ -132,7 +139,7 @@ Through this repository, I aim to:
 
 | Metric | Progress |
 |---|---:|
-| Tracked C source files currently in the repository | 1 |
+| Practical C programs added in Module 01 | 7 |
 | Practical program collections planned for Modules 01–06 | In progress |
 
 The practical-program count is tracked separately from documentation progress. A completed guide does not automatically mark its practical implementation as complete.
