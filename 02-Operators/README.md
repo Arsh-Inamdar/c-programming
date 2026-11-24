@@ -30,9 +30,10 @@
 10. [📊 Operator Precedence and Associativity](#-operator-precedence-and-associativity)
 11. [⚠️ Common Mistakes](#️-common-mistakes)
 12. [🧠 Practice Exercises](#-practice-exercises)
-13. [✅ Module Completion Checklist](#-module-completion-checklist)
-14. [📖 Key Takeaways](#-key-takeaways)
-15. [🔗 Module Navigation](#-module-navigation)
+13. [💻 Practical Programs](#-practical-programs)
+14. [✅ Module Completion Checklist](#-module-completion-checklist)
+15. [📖 Key Takeaways](#-key-takeaways)
+16. [🔗 Module Navigation](#-module-navigation)
 
 ---
 
@@ -937,6 +938,29 @@ printf("%d\n", a == 10 || b == 0);
 - Compile and execute your programs using GCC.
 - Understand why the output is produced.
 - Keep your practice programs organized inside the appropriate module folder.
+
+---
+
+## 💻 Practical Programs
+
+The following practical C programs are included in this module.
+
+| No. | Program | Concepts Covered |
+|---:|---|---|
+| 01 | `01-arithmetic-operators.c` | Arithmetic operators |
+| 02 | `02-relational-operators.c` | Relational operators |
+| 03 | `03-logical-operators.c` | Logical operators |
+| 04 | `04-assignment-operators.c` | Assignment and compound assignment |
+| 05 | `05-increment-decrement.c` | Pre-increment, post-increment, pre-decrement and post-decrement |
+| 06 | `06-bitwise-operators.c` | Bitwise operators and shifts |
+| 07 | `07-conditional-operator.c` | Conditional operator and even/odd checks |
+| 08 | `08-operator-precedence.c` | Operator precedence and associativity |
+| 09 | `09-modulus-even-odd.c` | Modulus operator and even/odd checks |
+| 10 | `10-operator-practice.c` | Combined operator practice |
+
+**Directory:** `02-Operators/programs/`
+
+All ten source files have been created. Compilation, execution and practical verification will be completed during revision.
 
 ---
 
