@@ -29,6 +29,7 @@ A comprehensive guide to storing, accessing, manipulating and processing collect
 15. [Best Practices](#15-best-practices)
 16. [Practice Exercises](#16-practice-exercises)
 17. [Key Takeaways](#17-key-takeaways)
+18. [Practical Programs](#-practical-programs)
 
 ---
 
@@ -2088,6 +2089,88 @@ After studying this module, remember:
 - Arrays can be passed to functions.
 - Array sizes should be passed separately when required.
 - Accessing memory outside an array's boundaries can cause undefined behavior.
+
+---
+
+## 💻 Practical Programs
+
+This module includes 45 practical C programs based on arrays, two-dimensional arrays and strings.
+
+Each program is maintained as a separate source file in the `programs/` directory.
+
+### 18.1 Basic Array Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 01 | Declare and Display Array | [View Code](programs/01-declare-and-display-array.c) |
+| 02 | Array Input and Display | [View Code](programs/02-array-input-and-display.c) |
+| 03 | Sum of Array Elements | [View Code](programs/03-sum-array-elements.c) |
+| 04 | Average of Array Elements | [View Code](programs/04-average-array-elements.c) |
+| 05 | Largest Array Element | [View Code](programs/05-largest-array-element.c) |
+| 06 | Smallest Array Element | [View Code](programs/06-smallest-array-element.c) |
+| 07 | Count Even and Odd Elements | [View Code](programs/07-count-even-odd-elements.c) |
+| 08 | Reverse an Array | [View Code](programs/08-reverse-array.c) |
+| 09 | Linear Search | [View Code](programs/09-linear-search.c) |
+| 10 | Copy an Array | [View Code](programs/10-copy-array.c) |
+
+### 18.2 Intermediate Array Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 11 | Sort Array in Ascending Order | [View Code](programs/11-sort-array-ascending.c) |
+| 12 | Sort Array in Descending Order | [View Code](programs/12-sort-array-descending.c) |
+| 13 | Find Second Largest Element | [View Code](programs/13-second-largest-element.c) |
+| 14 | Count Duplicate Elements | [View Code](programs/14-count-duplicate-elements.c) |
+| 15 | Merge Two Arrays | [View Code](programs/15-merge-two-arrays.c) |
+| 16 | Remove Duplicate Elements | [View Code](programs/16-remove-duplicate-elements.c) |
+| 17 | Left Rotate an Array | [View Code](programs/17-left-rotate-array.c) |
+| 18 | Right Rotate an Array | [View Code](programs/18-right-rotate-array.c) |
+
+### 18.3 Two-Dimensional Array Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 19 | Display a 3 × 3 Matrix | [View Code](programs/19-display-3x3-matrix.c) |
+| 20 | Matrix Input and Display | [View Code](programs/20-matrix-input-and-display.c) |
+| 21 | Matrix Addition | [View Code](programs/21-matrix-addition.c) |
+| 22 | Matrix Subtraction | [View Code](programs/22-matrix-subtraction.c) |
+| 23 | Matrix Transpose | [View Code](programs/23-matrix-transpose.c) |
+| 24 | Sum of Diagonal Elements | [View Code](programs/24-diagonal-elements-sum.c) |
+| 25 | Largest Matrix Element | [View Code](programs/25-largest-matrix-element.c) |
+| 26 | Matrix Multiplication | [View Code](programs/26-matrix-multiplication.c) |
+
+### 18.4 String Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 27 | String Input and Display | [View Code](programs/27-string-input-and-display.c) |
+| 28 | String Length Without strlen() | [View Code](programs/28-string-length-without-strlen.c) |
+| 29 | String Copy Without strcpy() | [View Code](programs/29-string-copy-without-strcpy.c) |
+| 30 | String Comparison Without strcmp() | [View Code](programs/30-string-compare-without-strcmp.c) |
+| 31 | String Concatenation Without strcat() | [View Code](programs/31-string-concatenate-without-strcat.c) |
+| 32 | Reverse a String | [View Code](programs/32-reverse-string.c) |
+| 33 | Count Vowels and Consonants | [View Code](programs/33-count-vowels-consonants.c) |
+| 34 | Count Uppercase and Lowercase Characters | [View Code](programs/34-count-uppercase-lowercase.c) |
+| 35 | Count Words in a Sentence | [View Code](programs/35-count-words-in-sentence.c) |
+| 36 | Check String Palindrome | [View Code](programs/36-string-palindrome.c) |
+| 37 | Count Character Occurrences | [View Code](programs/37-character-occurrence-count.c) |
+| 38 | Remove Spaces from a String | [View Code](programs/38-remove-spaces-from-string.c) |
+
+### 18.5 Challenge Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 39 | Frequency of Array Elements | [View Code](programs/39-frequency-of-array-elements.c) |
+| 40 | Common Elements in Two Arrays | [View Code](programs/40-common-elements-in-arrays.c) |
+| 41 | Matrix Multiplication Challenge | [View Code](programs/41-matrix-multiplication-challenge.c) |
+| 42 | Check Identity Matrix | [View Code](programs/42-identity-matrix-check.c) |
+| 43 | Check String Anagram | [View Code](programs/43-string-anagram-check.c) |
+| 44 | First Non-Repeating Character | [View Code](programs/44-first-non-repeating-character.c) |
+| 45 | Reverse Words in a Sentence | [View Code](programs/45-reverse-words-in-sentence.c) |
+
+**Total: 45 practical programs.**
+
+Note: These programs are prepared for practice. Compilation, execution and verification are part of the revision process.
 
 ---
 
