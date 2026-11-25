@@ -40,6 +40,7 @@ By the end of this module, you will understand how to organize C programs using 
 18. [Best Practices](#18-best-practices)
 19. [Practice Exercises](#19-practice-exercises)
 20. [Key Takeaways](#20-key-takeaways)
+21. [Practical Programs](#21-practical-programs)
 
 ---
 
@@ -2036,6 +2037,91 @@ After completing this module, remember these important points:
 - Lifetime determines how long an object exists.
 - Storage-class specifiers affect properties such as storage duration, scope and linkage.
 - Good function design makes programs easier to develop, test and maintain.
+
+---
+
+## 21. Practical Programs
+
+This section contains practical C programs covering the major concepts of functions. Each program is provided as a separate source file for independent practice and revision.
+
+### 21.1 Basic Function Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 1 | Hello World using a Function | [View Code](programs/01-hello-world-function.c) |
+| 2 | Display Name and College using a Function | [View Code](programs/02-name-and-college-function.c) |
+| 3 | First Ten Natural Numbers | [View Code](programs/03-first-ten-natural-numbers.c) |
+| 4 | Square of a Number using a Function | [View Code](programs/04-square-using-function.c) |
+| 5 | Cube of a Number using a Function | [View Code](programs/05-cube-using-function.c) |
+| 6 | Even or Odd using a Function | [View Code](programs/06-even-or-odd-function.c) |
+| 7 | Positive, Negative or Zero | [View Code](programs/07-positive-negative-or-zero.c) |
+| 8 | Largest of Two Numbers | [View Code](programs/08-largest-of-two-numbers.c) |
+| 9 | Largest of Three Numbers | [View Code](programs/09-largest-of-three-numbers.c) |
+| 10 | Sum of Two Integers | [View Code](programs/10-sum-of-two-integers.c) |
+
+### 21.2 Function Arguments and Return Values
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 11 | Function to Calculate Sum | [View Code](programs/11-function-sum.c) |
+| 12 | Function to Calculate Difference | [View Code](programs/12-function-difference.c) |
+| 13 | Function to Calculate Product | [View Code](programs/13-function-product.c) |
+| 14 | Average of Three Numbers | [View Code](programs/14-average-of-three-numbers.c) |
+| 15 | Area of a Circle | [View Code](programs/15-area-of-circle.c) |
+| 16 | Area of a Rectangle | [View Code](programs/16-area-of-rectangle.c) |
+| 17 | Celsius to Fahrenheit Conversion | [View Code](programs/17-celsius-to-fahrenheit.c) |
+| 18 | Simple Interest Calculation | [View Code](programs/18-simple-interest.c) |
+| 19 | Prime Number Check using a Function | [View Code](programs/19-prime-check-using-function.c) |
+| 20 | Factorial using a Function | [View Code](programs/20-factorial-using-function.c) |
+
+### 21.3 Call by Value and Pointer Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 21 | Demonstration of Call by Value | [View Code](programs/21-call-by-value.c) |
+| 22 | Modify a Variable using a Pointer | [View Code](programs/22-modify-variable-using-pointer.c) |
+| 23 | Swap Two Numbers using Pointers | [View Code](programs/23-swap-using-pointers.c) |
+| 24 | Find Maximum using Pointer Parameters | [View Code](programs/24-maximum-using-pointer-parameters.c) |
+| 25 | Calculate Sum and Difference using Pointers | [View Code](programs/25-sum-and-difference-using-pointers.c) |
+
+### 21.4 Recursive Function Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 26 | Print Natural Numbers in Ascending Order | [View Code](programs/26-recursive-natural-numbers-ascending.c) |
+| 27 | Print Natural Numbers in Descending Order | [View Code](programs/27-recursive-natural-numbers-descending.c) |
+| 28 | Factorial using Recursion | [View Code](programs/28-recursive-factorial.c) |
+| 29 | Sum of Natural Numbers using Recursion | [View Code](programs/29-recursive-sum-of-natural-numbers.c) |
+| 30 | Power of a Number using Recursion | [View Code](programs/30-recursive-power.c) |
+| 31 | Fibonacci Series using Recursion | [View Code](programs/31-recursive-fibonacci.c) |
+| 32 | Sum of Digits using Recursion | [View Code](programs/32-recursive-sum-of-digits.c) |
+| 33 | Reverse a Number using Recursion | [View Code](programs/33-recursive-reverse-number.c) |
+| 34 | GCD using Recursion | [View Code](programs/34-recursive-gcd.c) |
+| 35 | String Palindrome using Recursion | [View Code](programs/35-recursive-string-palindrome.c) |
+
+### 21.5 Scope and Storage Class Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 36 | Demonstration of Local Variables | [View Code](programs/36-local-variables.c) |
+| 37 | Demonstration of Global Variables | [View Code](programs/37-global-variables.c) |
+| 38 | Demonstration of Block Scope | [View Code](programs/38-block-scope.c) |
+| 39 | Static Local Variable | [View Code](programs/39-static-local-variable.c) |
+| 40 | Extern Storage Class | [View Code](programs/40-extern-storage-class.c) |
+| 41 | Automatic vs Static Variables | [View Code](programs/41-auto-vs-static-variable.c) |
+| 42 | Local Variable Hiding a Global Variable | [View Code](programs/42-local-variable-hides-global.c) |
+
+### 21.6 Application Programs
+
+| No. | Program | Source Code |
+|---:|---|---|
+| 43 | Menu-Driven Calculator using Functions | [View Code](programs/43-menu-driven-calculator.c) |
+| 44 | Student Result using Functions | [View Code](programs/44-student-result-using-functions.c) |
+| 45 | Number Utility Program | [View Code](programs/45-number-utility-program.c) |
+| 46 | Array Maximum and Minimum using Functions | [View Code](programs/46-array-maximum-and-minimum-using-functions.c) |
+| 47 | Matrix Addition using Functions | [View Code](programs/47-matrix-addition-using-functions.c) |
+
+**Note:** The Practice Exercises section contains 55 exercises, including conceptual questions. This section provides source code for the 47 practical programs.
 
 ---
 
