@@ -34,6 +34,7 @@
 15. [Best Practices](#15-best-practices)
 16. [Practice Exercises](#16-practice-exercises)
 17. [Key Takeaways](#17-key-takeaways)
+18. [Practical Programs](#-practical-programs)
 
 ---
 
@@ -883,6 +884,26 @@ These exercises are provided for independent revision and future practical sessi
 - The conditional operator provides a compact expression-based choice.
 
 ---
+
+## 💻 Practical Programs
+
+The following practical C programs are included in this module.
+
+| No. | Program | Concepts Covered |
+|---:|---|---|
+| 01 | `01-if-statement.c` | if statement |
+| 02 | `02-if-else-statement.c` | if-else statement |
+| 03 | `03-nested-if-statement.c` | Nested if statement |
+| 04 | `04-else-if-ladder.c` | else-if ladder |
+| 05 | `05-switch-statement.c` | switch statement and case selection |
+| 06 | `06-break-statement.c` | break statement |
+| 07 | `07-continue-statement.c` | continue statement |
+| 08 | `08-goto-statement.c` | goto statement and labels |
+| 09 | `09-return-statement.c` | return statement and function termination |
+
+**Directory:** `03-Control-Statements/programs/`
+
+All nine source files have been created. Compilation, execution and practical verification will be completed during revision.
 
 ## ✅ Module Completion Checklist
 
