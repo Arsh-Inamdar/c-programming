@@ -31,6 +31,7 @@
 12. [Best Practices](#12-best-practices)
 13. [Practice Exercises](#13-practice-exercises)
 14. [Key Takeaways](#14-key-takeaways)
+15. [Practical Programs](#-practical-programs)
 
 ---
 
@@ -959,6 +960,38 @@ Use the concepts learned in this module to solve the following exercises.
 - Selecting the correct loop improves program readability and efficiency.
 
 ---
+
+
+---
+
+## 💻 Practical Programs
+
+The following programs provide hands-on practice with the loop concepts covered in this module.
+
+| No. | Program | Concepts Practised |
+|---:|---|---|
+| 1 | `01-for-loop-counting.c` | Print numbers from 1 to 10 using a for loop |
+| 2 | `02-while-loop-reverse-counting.c` | Reverse counting using a while loop |
+| 3 | `03-even-numbers.c` | Print even numbers from 1 to 50 |
+| 4 | `04-odd-numbers.c` | Print odd numbers from 1 to 50 |
+| 5 | `05-sum-natural-numbers.c` | Sum of first N natural numbers |
+| 6 | `06-factorial.c` | Factorial using a loop |
+| 7 | `07-multiplication-table.c` | Multiplication table of a number |
+| 8 | `08-count-digits.c` | Count digits using a do-while loop |
+| 9 | `09-reverse-number.c` | Reverse the digits of a number |
+| 10 | `10-sum-of-digits.c` | Calculate the sum of digits |
+| 11 | `11-palindrome-number.c` | Check whether a number is a palindrome |
+| 12 | `12-prime-number.c` | Check whether a number is prime |
+| 13 | `13-right-triangle-pattern.c` | Right-angled triangle star pattern |
+| 14 | `14-inverted-triangle-pattern.c` | Inverted triangle star pattern |
+| 15 | `15-square-star-pattern.c` | Square star pattern using nested loops |
+| 16 | `16-multiplication-tables-nested-loops.c` | Multiplication tables from 1 to 10 |
+| 17 | `17-menu-driven-loop.c` | Menu-driven program using a do-while loop |
+| 18 | `18-break-continue-demo.c` | Demonstration of break and continue |
+
+**Program Directory:** `04-Loops/programs/`
+
+**Progress:** All 18 program source files have been created. Compilation, execution and practical verification are scheduled for the revision session.
 
 ## ✅ Module Completion Checklist
 
